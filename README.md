@@ -9,7 +9,6 @@ I’m diving deep into:
 - Web Development: HTML, CSS  
 - Tools: Canva  
 - 📊 Data Science and Analysis  
-- 🔒 Cybersecurity  
 - 📦 Peer-to-Peer Networking and Torrent Client Development  
 
  
