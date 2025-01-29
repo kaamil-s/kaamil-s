@@ -4,7 +4,7 @@
 I’m a passionate learner and technology enthusiast who loves exploring new tools and technologies. My focus lies on creating innovative and impactful projects that solve real-world problems.  
 
 ## 🌱 Currently Learning  
-I’m diving deep into:  
+I’m diving into:  
 - Programming: Python, SQL, C++  
 - Web Development: HTML, CSS  
 - Tools: Canva  
