@@ -7,7 +7,7 @@ I’m a passionate learner and technology enthusiast who loves exploring new too
 I’m diving into:  
 - Programming: Python, SQL, C++  
 - Web Development: HTML, CSS  
-- Tools: Canva  
+- Tools: Powe BI, Canva  
 - 📊 Data Science and Analysis  
 - 📦 Peer-to-Peer Networking and Torrent Client Development  
 
